@@ -1,0 +1,2 @@
+hi srikanth welcome to practice git pull and fetch
+practice devops tools
